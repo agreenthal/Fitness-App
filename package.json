@@ -1,0 +1,28 @@
+{
+  "name": "Fitness-Tracker",
+  "version": "1.0.0",
+  "description": "## User Story",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pswk1/Fitness-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pswk1/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/pswk1/Fitness-Tracker#readme"
+}
