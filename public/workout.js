@@ -49,11 +49,11 @@ function renderWorkoutSummary(summary) {
 
   const workoutKeyMap = {
     date: "Date",
-    totalDuration: "Total Workout Duration",
-    numExercises: "Exercises Performed",
+    totalDuration: "Total Workout Time",
+    numExercises: "Exercises Completed",
     totalWeight: "Total Weight Lifted",
-    totalSets: "Total Sets Performed",
-    totalReps: "Total Reps Performed",
+    totalSets: "Total Sets Completed",
+    totalReps: "Total Reps Completed",
     totalDistance: "Total Distance Covered"
   };
 
