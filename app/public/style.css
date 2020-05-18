@@ -354,7 +354,7 @@ form > button {
 }
 
 #toast.success {
-  background-color: hsl(94, 40%, 86%);
+  background-color: hsl(75, 91%, 50%);
   color: hsl(94, 90%, 16%);
 }
 
