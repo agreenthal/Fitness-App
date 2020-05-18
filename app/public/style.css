@@ -153,7 +153,7 @@ button {
   cursor: pointer;
   font-size: 1rem;
   border-radius: 6px;
-  border: 1px solid #aaa;
+  border: 1px solid rgb(218, 241, 9);
   padding: 10px;
   background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
 }
@@ -179,7 +179,7 @@ button {
   opacity: 1;
   right: 10px;
   background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  color: hsl(0, 87%, 40%);
   transition: all 1.2s;
 }
 
